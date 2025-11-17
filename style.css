@@ -38,6 +38,21 @@ body {
     padding: 48px 20px;
 }
 
+.logo-icon {
+    width: 28px;
+    height: 28px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+.upload-image-icon {
+    width: 40px;
+    height: 40px;
+    opacity: 0.7;
+    margin-bottom: 6px;
+}
+
+
 .site-header {
     text-align: center;
     margin-bottom: 28px;

@@ -19,7 +19,7 @@ const resultConfidence = document.getElementById("result-confidence");
 const explain = document.getElementById("explain");
 
 // Configure
-const API_URL = "http://localhost:4000/predict";
+const API_URL = "https://b-aackend.onrender.com/predict";
 const MAX_SIZE = 5 * 1024 * 1024; // 5MB
 const MIN_DIM = 64; // minimal resolution for reasonable prediction
 const CONFIDENCE_THRESHOLD = 0.70; // below this treat as "unrecognized"
